@@ -1,0 +1,52 @@
+_repo: Castle-Richmond_5897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Castle Richmond is the third of five novels set in Ireland by Anthony\
+  \ Trollope. Castle Richmond was written between 4 August 1859 and 31 March 1860,\
+  \ and was published in three volumes on 10 May 1860. It was his tenth novel. Trollope\
+  \ signed the contract for the novel on 2 August 1859. He received £600, £200 more\
+  \ than the payment for his previous novel, The Bertrams, reflecting his growing\
+  \ popular success.\nCastle Richmond is set in southwestern Ireland at beginning\
+  \ of the Irish famine. Castle Richmond is situated on the banks of the Blackwater\
+  \ River in County Cork. Trollope's work in Ireland from 1841 to 1859 had given him\
+  \ an extensive knowledge of the island, and Richard Mullen has written that \"All\
+  \ the principal strands of his life were formed in Ireland.\"\nThe unusually (for\
+  \ Trollope) complicated plot features the competition of two Protestant cousins\
+  \ of English origin, Owen Fitzgerald and Herbert Fitzgerald, for the hand of Clara\
+  \ Desmond, the noble but impoverished daughter of the widowed Countess of Desmond,\
+  \ providing the novel's principal dramatic interest. Castle Richmond was the first\
+  \ of several novels by Trollope in which bigamy played an important role.\nThe Irish\
+  \ famine and efforts by authorities to mitigate its effects are the subject of many\
+  \ scenes and the object of abundant commentary throughout. The famine also occasions\
+  \ more explicit religious commentary than is typical in novels by Trollope.\nThe\
+  \ critical reception to the novel was limited but generally favourable. However,\
+  \ Castle Richmond did not sell particularly well.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5897'
+  wikidata: Q5050241
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Fiction'
+- !lcsh 'Ireland -- Fiction'
+- GITenberg
+title: Castle Richmond
+url: http://www.gutenberg.org/ebooks/5897
+wikipedia:
+- https://en.wikipedia.org/wiki/Castle_Richmond
